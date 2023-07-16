@@ -1,2 +1,4 @@
 # Django
-After Python basics, I started learning Django and made a TODO app project.
+Django Projects
+ToDo App
+Tennis Club
