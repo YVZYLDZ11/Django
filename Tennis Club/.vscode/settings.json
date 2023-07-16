@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.copyOnSelection": false,
+    "terminal.integrated.detectLocale": "off",
+    "terminal.explorerKind": "external"
+}
