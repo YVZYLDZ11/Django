@@ -1,6 +1,6 @@
 # Django
 Django Projects >>>
-ToDo App
+ToDo App,
 Tennis Club
 
                                                           DJANGO BASICS
