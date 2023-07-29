@@ -60,9 +60,13 @@ Type the following in the command prompt, remember to navigate to where you want
 This will set up a virtual environment, and create a folder named "myworld" with subfolders and files, like this:
 
 > myworld
+
   Include
+
   Lib
+  
   Scripts
+  
   pyvenv.cfg
 
 
