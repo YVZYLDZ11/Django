@@ -71,7 +71,13 @@ This will set up a virtual environment, and create a folder named "myworld" with
 
 Then you have to activate the environment, by typing this command:
 
+> Windows:
 
+myworld\Scripts\activate.bat
+
+> Unix/MacOS:
+
+source myworld/bin/activate
 
 
 
