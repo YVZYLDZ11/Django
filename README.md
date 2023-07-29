@@ -81,8 +81,13 @@ source myworld/bin/activate
 
 Once the environment is activated, you will see this result in the command prompt:
 
+> Windows:
 
+(myworld) C:\Users\Your Name>
 
+> Unix/MacOS:
+
+(myworld) ... $
 
 
 
