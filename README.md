@@ -47,15 +47,12 @@ The Model-View-Template (MVT) is slightly different from MVC. In fact the main d
 The developer provides the Model, the view and the template then just maps it to a URL and Django does the magic to serve it to the user.
 
 CREATE VIRTUAL ENVIRONMENT
-> It is suggested to have a dedicated virtual environment for each Django project, and one way to manage a virtual environment is venv, which is included in Python.
+It is suggested to have a dedicated virtual environment for each Django project, and one way to manage a virtual environment is venv, which is included in Python.
+The name of the virtual environment is your choice, in this tutorial we will call it myworld.
+Type the following in the command prompt, remember to navigate to where you want to create your project:
 
-> The name of the virtual environment is your choice, in this tutorial we will call it myworld.
-
-> Type the following in the command prompt, remember to navigate to where you want to create your project:
-
-Windows:
-
-py -m venv myworld
+> Windows:
+> py -m venv myworld
 
 
 
