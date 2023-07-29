@@ -51,7 +51,7 @@ CREATE VIRTUAL ENVIRONMENT
 
 > The name of the virtual environment is your choice, in this tutorial we will call it myworld.
 
-> 
+> Type the following in the command prompt, remember to navigate to where you want to create your project:
 
 
 
