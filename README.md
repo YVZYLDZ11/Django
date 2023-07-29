@@ -45,3 +45,52 @@ When talking about applications that provides UI (web or desktop), we usually ta
 The Model-View-Template (MVT) is slightly different from MVC. In fact the main difference between the two patterns is that Django itself takes care of the Controller part (Software Code that controls the interactions between the Model and View), leaving us with the template. The template is a HTML file mixed with Django Template Language (DTL). The following diagram illustrates how each of the components of the MVT pattern interacts with each other to serve a user request −
 
 The developer provides the Model, the view and the template then just maps it to a URL and Django does the magic to serve it to the user.
+
+CREATE VIRTUAL ENVIRONMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
