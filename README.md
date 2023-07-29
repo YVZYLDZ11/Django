@@ -53,6 +53,7 @@ Type the following in the command prompt, remember to navigate to where you want
 
 > Windows:
 > py -m venv myworld
+
 > Unix/MacOS:
 > python -m venv myworld
 
