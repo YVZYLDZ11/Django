@@ -79,7 +79,7 @@ myworld\Scripts\activate.bat
 
 source myworld/bin/activate
 
-
+Once the environment is activated, you will see this result in the command prompt:
 
 
 
