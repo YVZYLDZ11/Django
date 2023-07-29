@@ -69,6 +69,8 @@ This will set up a virtual environment, and create a folder named "myworld" with
   
   pyvenv.cfg
 
+Then you have to activate the environment, by typing this command:
+
 
 
 
