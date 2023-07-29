@@ -53,6 +53,9 @@ CREATE VIRTUAL ENVIRONMENT
 
 > Type the following in the command prompt, remember to navigate to where you want to create your project:
 
+Windows:
+
+py -m venv myworld
 
 
 
